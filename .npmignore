@@ -1,0 +1,13 @@
+tests/
+.eslintrc
+.gitignore
+examples/
+*.md
+.vscode
+devenv.*
+.envrc
+jest.config.js
+.devenv*
+devenv.local.nix
+.direnv
+.pre-commit-config.yaml
