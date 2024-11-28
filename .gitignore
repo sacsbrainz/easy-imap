@@ -10,3 +10,5 @@ devenv.local.nix
 
 # node modules
 node_modules
+
+easy-imap-*.tgz

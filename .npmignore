@@ -11,3 +11,4 @@ jest.config.js
 devenv.local.nix
 .direnv
 .pre-commit-config.yaml
+easy-imap-*.tgz
