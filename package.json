@@ -19,6 +19,7 @@
     "nodejs"
   ],
   "author": "Solomon ogu",
+  "license": "UNLICENSED",
   "dependencies": {
     "mailparser": "^3.7.1"
   },
